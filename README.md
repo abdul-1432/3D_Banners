@@ -6,19 +6,14 @@
 ![4](https://github.com/abdul-1432/3D_Banners/assets/124916666/4c89f8bf-1f5a-4d44-a9e6-4f269845f66b)
 ![5](https://github.com/abdul-1432/3D_Banners/assets/124916666/8119b135-201f-46fc-9af8-bb5195c55bf4)
 ![6](https://github.com/abdul-1432/3D_Banners/assets/124916666/70e5997f-7cda-499d-970a-5a29df604fd8)
-
-
-
-
-
-
+---
 The 3D Banner Generator is a simple and user-friendly tool that allows you to create stunning 3D banners for your websites, projects, or social media profiles. With this tool, you can quickly generate eye-catching banners that add a touch of depth and creativity to your online presence.
 
 ## Features
 
 - **Easy-to-Use Interface**: The user interface is designed with simplicity in mind, making it easy for both beginners and experienced designers to create 3D banners.
 
-- **Customizable Text**: Add your own text to the banner, choose the font, size, color, and alignment that match your style and message.
+- **Customizable Text**: Add your own text to the banner, and choose the font, size, color, and alignment that match your style and message.
 
 - **Variety of Backgrounds**: Select from a range of pre-designed backgrounds or upload your own image to serve as the backdrop for your 3D banner.
 
@@ -33,7 +28,7 @@ The 3D Banner Generator is a simple and user-friendly tool that allows you to cr
 1. Clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/3d-banner-generator.git
+git clone https://github.com/abdul-1432/3D_Banners
 ```
 
 2. Open the `index.html` file in your preferred web browser.
