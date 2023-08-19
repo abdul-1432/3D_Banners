@@ -1,6 +1,6 @@
 # 3D Banner Generator
 
-![3D Banner Example](banner_example.png)
+![1](https://github.com/abdul-1432/3D_Banners/assets/124916666/571fd449-fdba-4e5d-b94b-be81030d40fc)
 
 The 3D Banner Generator is a simple and user-friendly tool that allows you to create stunning 3D banners for your websites, projects, or social media profiles. With this tool, you can quickly generate eye-catching banners that add a touch of depth and creativity to your online presence.
 
